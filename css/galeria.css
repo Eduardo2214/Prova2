@@ -1,0 +1,88 @@
+body{
+    text-align: justify;
+    width: 70%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header h1{
+    margin-top: 0px;
+    background-color: #1E1E1E;
+    color: white;
+    padding: 10px;
+    border-bottom: solid red 3px;
+    text-align: center;
+}
+
+main{
+    float: right;
+    width: 83%;
+}
+main h2{
+    margin-bottom: 0px;
+    padding: 10px;
+    border: solid red 3px;
+    margin:auto;
+    text-align: center;
+    background-color: #1E1E1E;
+    color: white;
+}
+div{
+    border: solid red;
+    background-color: #1E1E1E;
+}
+div figure{
+    color: white;
+    background-color: #1E1E1E;
+    padding: 10px;
+    height: 250px;
+}
+div h3{
+    margin-top: 10px;
+    text-align: center;
+    background-color: #1E1E1E;
+    color: white;
+}
+img{
+    max-width: 100%;
+    max-block-size: 100px;
+    float: left;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+nav{
+    float: left;
+    width: 15%;
+    border: solid red;
+}
+nav ul{
+    list-style: none;
+    margin: auto;
+    padding-left: 0;
+}
+nav ul li{
+    border-bottom: solid thin black;
+    background-color: #1E1E1E;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+nav img{
+    max-block-size: 25px;
+    margin: auto;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+footer{
+    margin-top: 586px;
+}
+footer h3{
+    background-color: #1E1E1E;
+    color: white;
+    padding: 10px;
+    border-top: solid red 3px;
+    text-align: center;
+    clear: both;
+}
